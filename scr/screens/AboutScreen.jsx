@@ -7,7 +7,7 @@ function AboutScreen() {
     <MainLayout>
       <View>
         <Text>App Name: ToDo App</Text>
-        <Text>Developer: [Your Name]</Text>
+        <Text>Developer: [Nishant]</Text>
         <Text>Date: {new Date().toLocaleDateString()}</Text>
       </View>
     </MainLayout>
